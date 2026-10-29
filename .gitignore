@@ -1,0 +1,16 @@
+
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.envrc
+cert.pem
+key.pem
+*.db
+instance/
+
+venv/
+__pycache__/
+*.pyc
