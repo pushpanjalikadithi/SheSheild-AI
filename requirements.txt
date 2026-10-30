@@ -1,6 +1,6 @@
-
 Flask
 gunicorn
+Flask-SQLAlchemy
 Werkzeug
 Jinja2
 itsdangerous
